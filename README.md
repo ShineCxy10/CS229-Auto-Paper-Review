@@ -1,2 +1,4 @@
 # CS229 Final Project
-Can My Paper Get Accepted? Automatic Paper Review using Machine Learning
+Can My Paper Get Accepted? Automatic Paper Review using Machine Learning (Group Project with Xi Yan and Siyun Li)
+
+Peer review is an integral part of scholarly publishing to determine the credibility and quality of a scientific work. However, in the past few years, the exponentially increasing submissions to prestigious scientific conferences have set a incredibly higher demand of workload for human reviewers. The growing amount of human labor required makes automatic paper review a tempting alternative. To this end, we study the use of machine learning algorithms to automate the paper review process. In this project, we formulate automatic paper review as a binary classification problem. We generate word embeddings for the input papers and combine them with hand-engineered features. We apply methodogically diverse machine learning algorithms to predict the peer review decision (i.e. accept or reject).
